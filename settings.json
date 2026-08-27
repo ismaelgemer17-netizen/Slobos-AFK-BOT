@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anarquico_experiment.aternos.me",
+    "ip": "TheCraftHaven.aternos.me",
     "port": 17898,
     "version": "1.21.1"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "soy dios y les digo no se pajenn",
+        "no se pajeen",
+        ":V chale sale guerra ?"
       ]
     },
     "chat-log": true,
